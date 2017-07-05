@@ -13,6 +13,7 @@ au BufWrite /private/etc/pw.* set nowritebackup nobackup
 
 let skip_defaults_vim=1
 
+" sudo apt-get install netatalk **** mac can scan this
 " vundle环境设置
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
