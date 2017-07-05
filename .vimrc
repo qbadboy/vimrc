@@ -15,6 +15,9 @@ let skip_defaults_vim=1
 
 " sudo apt-get install netatalk **** mac can scan this
 " vundle环境设置
+" *运行之前需要安装vundle
+" $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 
